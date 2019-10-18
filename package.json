@@ -1,0 +1,15 @@
+{
+  "name": "orbitdb-x1",
+  "version": "0.1.0",
+  "description": "Experimental OrbitDb application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Chrysostom",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs": "^0.38.1",
+    "orbit-db": "^0.22.0"
+  }
+}
